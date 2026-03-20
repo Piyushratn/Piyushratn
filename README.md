@@ -15,7 +15,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **EEE student** at Sir MVIT, Bengaluru (Graduating 2026)
-- 🤖 I build **AI-powered apps** using RAG, LangChain & OpenAI
+- 🤖 I build **AI-powered apps** using RAG, LangChain, OpenAI & Ollama (local LLMs)
 - 🌐 Full-Stack developer with **MERN Stack**
 - 🧩 Solved **200+ DSA problems** on LeetCode
 - 📬 Looking for **SDE / AI / Full-Stack Internships** — available now!
@@ -36,7 +36,7 @@
 ### 📄 [DocuMindAI](https://github.com/Piyushratn/DocuMindAI)
 > AI Document Q&A System using RAG
 - Upload any **PDF** and ask questions about it
-- Uses **LangChain + OpenAI embeddings** for smart search
+- Uses **LangChain + OpenAI embeddings + Ollama** for smart search
 - Built with **JavaScript, RAG pipeline & vector search**
 
 ---
@@ -78,6 +78,8 @@
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white)
 
 **Tools**
 
