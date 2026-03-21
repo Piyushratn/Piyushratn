@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Piyush Ratn
+#  Hi, I'm Piyush Ratn
 
 ### AI & MERN Stack Developer | Building Real-World GenAI Applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-ratn)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyushratn)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/piyushratn932)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]((https://leetcode.com/u/piyushratn/))
 
 </div>
 
