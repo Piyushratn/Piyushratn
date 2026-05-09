@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-- 🎓 EEE student at Sir MVIT, Bengaluru (2026)
+- 🎓 EEE student at Sir MVIT, Bengaluru (2027)
 - 🤖 Building **AI-powered applications using RAG, LangChain & LLMs**
 - 🌐 Full-stack developer (MERN Stack)
-- 🧩 Solved **250+ DSA problems**
+- 🧩 Solved **300+ DSA problems**
 - 📬 Actively seeking **SDE / AI / Backend Internships**
 - 📍 Bengaluru, India
 
@@ -33,8 +33,8 @@
 
 ## 📊 Impact
 
-- 🚀 Built **2+ AI applications** using RAG & LangChain  
-- 📈 Solved **250+ DSA problems**  
+- 🚀 Built **3+ AI applications** using RAG & LangChain  
+- 📈 Solved **300+ DSA problems**  
 - ⚡ Reduced manual effort by **~60% using AI systems**  
 
 ---
